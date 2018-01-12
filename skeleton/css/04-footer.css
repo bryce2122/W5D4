@@ -1,0 +1,28 @@
+/* PHASE 4: Footer */
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 900px;
+  margin: 0 auto 50px auto;
+  padding: 5px;
+  height: 50px;
+  background-color: white;
+  vertical-align: top;
+}
+
+.copyright {
+margin-left: 15px;
+}
+.menu-right {
+
+display: flex;
+flex-direction: row;
+/* justify-content: space-around; */
+
+
+}
+
+.menu-right li {
+  margin: 10px;
+}
